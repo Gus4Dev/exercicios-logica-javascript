@@ -1,6 +1,6 @@
 # 💻 Exercícios de Lógica de Programação — JavaScript
 
-Repositório criado para armazenar meus exercícios e estudos de **Lógica de Programação utilizando JavaScript**, desenvolvidos durante meus estudos e atividades do curso (**INSTITUTO PROA**)
+Repositório criado para armazenar meus exercícios e estudos de **Lógica de Programação utilizando JavaScript**, desenvolvidos durante meus estudos e atividades do curso ( **INSTITUTO PROA** )
 
 O objetivo deste repositório é registrar minha evolução na programação, praticando conceitos fundamentais por meio dos exercícios das apostilas **Faccat** e **Manzano**.
 
