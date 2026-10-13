@@ -1,8 +1,6 @@
 # 💻 Exercícios de Lógica de Programação — JavaScript
 
-Repositório criado para armazenar meus exercícios e estudos de **Lógica de Programação utilizando JavaScript**, desenvolvidos durante meus estudos e atividades do curso do **Instituto PROA**.
-
-O objetivo deste repositório é registrar minha evolução na programação, praticando conceitos fundamentais e desenvolvendo o raciocínio lógico por meio dos exercícios das apostilas **Faccat** e **Manzano**.
+Repositório contendo exercícios de lógica de programação desenvolvidos em **JavaScript** durante meus estudos e atividades do **Instituto PROA**, abrangendo conceitos fundamentais, estruturas condicionais, laços de repetição e resolução de problemas com algoritmos.
 
 ---
 
@@ -12,21 +10,19 @@ O projeto está organizado nas seguintes pastas:
 
 ```text
 exercicios-logica-javascript/
-├── Exercícios FacCat - JavaScript/    # Exercícios da apostila Faccat
-└── Exercícios Manzano - JavaScript/   # Exercícios da apostila Manzano
+├── Exercícios FacCat - JavaScript/    # Resoluções dos exercícios da apostila Faccat
+└── Exercícios Manzano - JavaScript/   # Resoluções dos exercícios da apostila Manzano
 ```
 
 > **Nota:** Os arquivos estão organizados de acordo com as apostilas de referência, facilitando a identificação e a consulta dos exercícios.
 
 ---
 
-## 📚 Conteúdos
+## 📚 Conteúdos Praticados
 
 ### 📘 Faccat
 
-Exercícios baseados na apostila de **Lógica de Programação — Faccat**, com foco na prática dos fundamentos da programação e na resolução de problemas.
-
-**Principais conteúdos praticados:**
+Exercícios baseados na apostila de **Lógica de Programação — Faccat**, com foco nos fundamentos da programação.
 
 - Entrada e saída de dados
 - Variáveis e tipos de dados
@@ -41,9 +37,7 @@ Exercícios baseados na apostila de **Lógica de Programação — Faccat**, com
 
 ### 📕 Manzano
 
-Exercícios baseados na apostila/livro de **Algoritmos — Manzano**, utilizados para aprofundar a prática da lógica de programação e do desenvolvimento de algoritmos.
-
-**Principais conteúdos praticados:**
+Exercícios baseados na apostila/livro de **Algoritmos — Manzano**, para praticar a construção de algoritmos e o raciocínio lógico.
 
 - Variáveis e constantes
 - Entrada e saída de dados
@@ -62,7 +56,33 @@ Exercícios baseados na apostila/livro de **Algoritmos — Manzano**, utilizados
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagem:** JavaScript
-- **HTML:** estrutura das páginas utilizadas na execução dos exercícios, quando aplicável
+- **Estrutura das páginas:** HTML, quando aplicável
 - **Editor de código:** [Visual Studio Code](https://code.visualstudio.com/)
 - **Controle de versão:** [Git](https://git-scm.com/)
-- **Hospedagem do código:** [GitHub]
+- **Hospedagem do código:** [GitHub](https://github.com/)
+
+---
+
+## 🚀 Como Executar os Exercícios
+
+1. Baixe o repositório pelo botão verde **Code > Download ZIP** e extraia os arquivos, ou clone o projeto utilizando o Git.
+2. Abra a pasta do projeto no Visual Studio Code.
+3. Acesse a pasta da apostila desejada: Faccat ou Manzano.
+4. Escolha o exercício que deseja executar.
+5. Execute o código conforme o tipo de arquivo:
+   - **Arquivos HTML:** abra no navegador para executar o JavaScript integrado à página.
+   - **Arquivos `.js`:** utilize o Node.js ou um navegador, conforme a estrutura do exercício.
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Este repositório faz parte da minha jornada de aprendizado em **Desenvolvimento de Software**, com foco na construção de uma base sólida em lógica de programação e JavaScript.
+
+O objetivo é praticar os conceitos fundamentais, desenvolver o raciocínio lógico e evoluir gradualmente para conteúdos mais avançados da programação.
+
+---
+
+<p align="center">
+  Desenvolvido por <a href="https://github.com/Gus4Dev"><b>Gus4Dev</b></a>
+</p>
