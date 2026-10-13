@@ -65,4 +65,4 @@ Exercícios baseados na apostila/livro de **Algoritmos — Manzano**, utilizados
 - **HTML:** estrutura das páginas utilizadas na execução dos exercícios, quando aplicável
 - **Editor de código:** [Visual Studio Code](https://code.visualstudio.com/)
 - **Controle de versão:** [Git](https://git-scm.com/)
-- **Hospedagem do código:** [GitHub
+- **Hospedagem do código:** [GitHub]
